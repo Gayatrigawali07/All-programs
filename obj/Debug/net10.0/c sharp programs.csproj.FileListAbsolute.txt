@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\c sharp programs\c sharp programs\bin\Debug\net10.0\c sharp programs.exe
+C:\Users\Asus\source\repos\c sharp programs\c sharp programs\bin\Debug\net10.0\c sharp programs.deps.json
+C:\Users\Asus\source\repos\c sharp programs\c sharp programs\bin\Debug\net10.0\c sharp programs.runtimeconfig.json
+C:\Users\Asus\source\repos\c sharp programs\c sharp programs\bin\Debug\net10.0\c sharp programs.dll
+C:\Users\Asus\source\repos\c sharp programs\c sharp programs\bin\Debug\net10.0\c sharp programs.pdb
+C:\Users\Asus\source\repos\c sharp programs\c sharp programs\obj\Debug\net10.0\c sharp programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\c sharp programs\c sharp programs\obj\Debug\net10.0\c sharp programs.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\c sharp programs\c sharp programs\obj\Debug\net10.0\c sharp programs.AssemblyInfo.cs
+C:\Users\Asus\source\repos\c sharp programs\c sharp programs\obj\Debug\net10.0\c sharp programs.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\c sharp programs\c sharp programs\obj\Debug\net10.0\c sharp programs.dll
+C:\Users\Asus\source\repos\c sharp programs\c sharp programs\obj\Debug\net10.0\refint\c sharp programs.dll
+C:\Users\Asus\source\repos\c sharp programs\c sharp programs\obj\Debug\net10.0\c sharp programs.pdb
+C:\Users\Asus\source\repos\c sharp programs\c sharp programs\obj\Debug\net10.0\c sharp programs.genruntimeconfig.cache
+C:\Users\Asus\source\repos\c sharp programs\c sharp programs\obj\Debug\net10.0\ref\c sharp programs.dll
