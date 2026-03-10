@@ -1,4 +1,4 @@
-﻿//class H_Registrationfrom
+﻿//class H_FH_Registrationfrom
 //{
 //    public static void Main(string[] args)
 //    {

@@ -1,10 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿//using System;
+//using System.Collections.Generic;
+//using System.Text;
 
-namespace c_sharp_programs
-{
-    internal class cartask
-    {
-    }
-}
+//namespace c_sharp_programs
+//{
+//    internal class cartask
+//    {
+//    }
+//}

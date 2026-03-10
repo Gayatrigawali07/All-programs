@@ -1,3 +1,3 @@
-﻿internal class H_Registrationfrom : H_filehandling
-{
-}
+﻿//internal class H_Registrationfrom : H_filehandling
+//{
+//}
